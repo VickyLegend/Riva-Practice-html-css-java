@@ -1,0 +1,73 @@
+body {
+  background-color: #000000;
+  color: #ffffff;
+}
+.navigation .container-fluid {
+  background-color: #2e2e2e;
+  color: #ffffff;
+  font-size: 14;
+}
+
+.navigation .nav {
+  background-color: #000000;
+  color: #ffffff;
+  font-size: 16;
+}
+
+.navbar{
+    background-color: #1D1D1D;
+}
+.nav-link{
+    color: white;
+}
+
+.intro{
+    background: linear-gradient(to bottom, #1D1D1D, #151515)
+}
+
+.content{
+    background: linear-gradient(to bottom, #151515, #000);
+}
+
+.get-started-button {
+  border-radius: 20px;
+  background: linear-gradient(to right, rgb(204, 82, 103), rgb(233, 80, 105));
+}
+
+.logos-setting {
+  display: grid inline-grid;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  width: 50%;
+}
+.logos-setting img {
+  opacity: 0.7;
+  margin: 0 10px;
+}
+
+.logo-settings {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo-settings .img {
+  display: inline;
+  width: 100%;
+  margin: 0 auto;
+  margin: 0 20px;
+}
+
+.editor{
+    background:linear-gradient(to right, #151515, rgb(46,47,86))
+}
+
+.editor-btn{
+    background: linear-gradient(to right, #6d72dc, #62a2d7);
+    color: white;
+}
+.runtime{
+    background: linear-gradient(to right, #28172c, #1d1d1d);
+    color: white;
+}
